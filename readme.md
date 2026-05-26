@@ -1,6 +1,7 @@
+# Guess Number Game
+
 ## Author
 DHANASRITHER K
-# Guess Number Game
 
 A simple number guessing game built using HTML, CSS, and JavaScript.
 
@@ -10,12 +11,10 @@ A simple number guessing game built using HTML, CSS, and JavaScript.
 - Interactive UI
 - Simple responsive design
 
-
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
-  
 
 ## What I Learned
 - DOM manipulation
@@ -23,4 +22,3 @@ A simple number guessing game built using HTML, CSS, and JavaScript.
 - CSS styling
 - JavaScript conditions
 - Random number generation
-
